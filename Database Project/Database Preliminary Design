@@ -1,0 +1,32 @@
+1.1 – Project description, database engine used, potential users, maybe some other stuff
+
+  This will be a database for the NBA. The database will store data on the teams that are in the NBA.
+  The database engine that will be used is the Microsoft SQL server. Potential users of the database would 
+  be NBA fans/sports fans, people who want to see data on teams, players, and coaches in the NBA. 
+  
+  
+1.2 – Data description, generally what type of data will be stored
+  
+  The types of data that will be stored will be integers and strings. 
+  
+1.3 - At lease five examples of the type of data that will be provided to the user.
+
+  The type of data available to the user will be: 
+    - The list of teams in the NBA 
+    - The city a team is located
+    - The names of players for a specific team
+    - A players number 
+    - The names of coaches for a team 
+    
+1.4 - A preliminary idea of the schema of the database including table description and possible columns 
+ 
+  There are going to be three tables. The table descriptions will be Teams, Players, and Coaches. In the 
+  teams table the columns will be Team Name, and City. In the Players table, the columns will be Player's
+  name, Number, Position, Weight, Age, Hometown. In the Coaches table, the columns will be Name, Age, and 
+  Hometown. 
+  
+1.5 - A complete preliminary EDR(Entity Relationship Diagram) for the database.
+
+  See Preliminary EDR file 
+
+ 
