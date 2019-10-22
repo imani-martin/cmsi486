@@ -1,0 +1,39 @@
+
+
+Basketball Teams Database Project
+Preliminary Design Document Feedback
+====================================
+
+Section 1.1 - covered: ✓
+Section 1.2 - covered: ✓
+Section 1.3 - covered: ✓
+Section 1.4 - covered: ✓
+Section 1.5 - covered: ✓
+
+
+This is nice work.  You have addessed all of the required topics.
+
+I think there needs to be more here, even for a preliminary design.  You have
+considered three entites, but haven't really addressed the starting concepts
+of what their attributes are.  For example, coaches have a name, an age, and
+a hometown, but what about wins and losses?  What about what teams they have
+coached in the past and their records with those teams?  What will be the
+primary key for that table?  For the Players, will the "number" attribute be
+enough to uniquely identify every player, regardless of team?  Do both the
+Lakers and the Buc's have a number 32?  What about their free-throw percentage
+or their other stats?  For the team, what other attributes can you think of to
+describe what people might want to know about each team?  It seems like there
+could be more than just the name and city... what about which cities they have
+been hosted in for other seasons?  What draft picks they have had, or their
+won/lost record?
+
+For section 1.2, I mentioned in class that this is not the "data type" of what
+will be stored, like "integer".  It is supposed to list, from a user's point
+of view, what *information* the data will provide, much of which I have given
+you above as examples.  Try to think about these things as you proceed with
+your design.
+
+Overall, pretty good work, but I encourage you to push yourself a bit further!
+
+you have 9% out of 10% which is 90% on this deliverable for an A-minus
+
