@@ -1,0 +1,22 @@
+﻿
+
+Basketball Players Database Project
+Detailed Design Document Feedback
+====================================
+
+Section 2.1 - covered: ✓
+Section 2.2 - covered: ✓
+Section 2.3 - covered: ✓
+
+You did a very nice job with this!  The data dictionary is nice and clean,
+and makes sense.
+
+Your ERD is a combination of styles, using the chen ovals with the crow's
+foot associations and cardinality.  I won't make you fix it for this class,
+but be aware that it's not quite the way to do things...
+
+
+Overall, VERY NICE WORK!
+
+you have 10% out of 10% which is 100% on this deliverable for an A-plus
+
