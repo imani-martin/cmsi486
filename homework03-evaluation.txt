@@ -1,0 +1,28 @@
+
+
+Homework 3 evaluation
+=====================
+
+NOTHING SUBMITTED FOR HOMEWORK 3
+
+
+Mongo section
+-------------
+questions 1 - 12     total 0 points
+bonus question 13    total 0 point
+bonus question 14    total 0 point
+
+
+Neo4J section
+-------------
+questions 1 - 12     total 0 points
+bonus question 13    total 0 point
+bonus question 14    total 0 point
+
+
+Total score:
+   0 out of 24 plus 0 bonus point
+
+   0 out of 24 = 0.00% which is an F
+
+
